@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Junqi Ma's Homepage"
-description              : "This is Junqi Ma's Homepage"
+description              : ""
 repository               : "junqi-ma/junqi-ma.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Junqi Ma"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. student at Institute of Software, CAS"
+  bio              : "Ph.D. student"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
