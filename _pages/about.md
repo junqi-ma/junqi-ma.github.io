@@ -17,11 +17,11 @@ redirect_from:
 
 <style>
 .label-paper {
-    background-color: #cd7328;
+    background-color: #cd2828;
 }
 
 .label-time {
-    background-color: #8528cd;
+    background-color: #aaaaaa;
 }
 
 .label {
