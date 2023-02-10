@@ -39,7 +39,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😺 About Me
-I am a Ph.D. student at Institute of Software, Chinese Academy of Sciences, under the supervision of **[Prof. Beihong Jin(金蓓弘)](http://work.iscas.ac.cn/index.php/Jinbeihong/index/)**. I also receive supervision from **[Prof. Fusang Zhang(张扶桑)](https://people.ucas.ac.cn/~zhangfusang?language=en)**. My research interests focus on pervasive computing and UWB-based sensing theories and applications.
+I am a Ph.D. student at Institute of Software, Chinese Academy of Sciences, under the supervision of **[Prof. Beihong Jin(金蓓弘)](http://work.iscas.ac.cn/index.php/Jinbeihong/index/)**. I also receive supervision from **[Prof. Fusang Zhang(张扶桑)](https://people.ucas.ac.cn/~zhangfusang?language=en)**. My research interests focus on pervasive computing and UWB-based sensing.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
