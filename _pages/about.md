@@ -16,8 +16,15 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <style>
+.label-paper {
+    background-color: #cd7328;
+}
+
+.label-time {
+    background-color: #8528cd;
+}
+
 .label {
-    background-color: #285fcd;
     display: inline;
     padding: .2em .6em .3em;
     padding-top: 0.2em;
@@ -50,47 +57,47 @@ I am a Ph.D. student at Institute of Software, Chinese Academy of Sciences, unde
 
 
 # 📝 Publications 
-<span class = 'label'>UbiComp'23</span> [Embracing Consumer-level UWB-equipped Devices for Fine-grained Wireless Sensing](https://dl.acm.org/doi/abs/10.1145/3569487)
+<span class = 'label label-paper'>UbiComp'23</span> [Embracing Consumer-level UWB-equipped Devices for Fine-grained Wireless Sensing](https://dl.acm.org/doi/abs/10.1145/3569487)
 
 *Fusang Zhang, Zhaoxin Chang, Jie Xiong, **Junqi Ma**, Jiazhi Ni, Wenbo Zhang, Beihong Jin, Daqing Zhang.*
 
-<span class = 'label'>MobiCom'22 Demo</span>  [Involving ultra-wideband in consumer-level devices into the ecosystem of wireless sensing](https://dl.acm.org/doi/abs/10.1145/3495243.3558745) ([demo video](https://www.youtube.com/watch?v=DmmyH8VwpJU))
+<span class = 'label label-paper'>MobiCom'22 Demo</span>  [Involving ultra-wideband in consumer-level devices into the ecosystem of wireless sensing](https://dl.acm.org/doi/abs/10.1145/3495243.3558745) ([demo video](https://www.youtube.com/watch?v=DmmyH8VwpJU))
 
 ***Junqi Ma**, Zhaoxin Chang, Fusang Zhang, Jie Xiong, Jiazhi Ni, Beihong Jin, Daqing Zhang.*
 
-<span class = 'label'>MobiCom'22</span> [Mobi$^2$Sense: Empowering Wireless Sensing with Mobility](https://dl.acm.org/doi/10.1145/3495243.3560518)
+<span class = 'label label-paper'>MobiCom'22</span> [Mobi$^2$Sense: Empowering Wireless Sensing with Mobility](https://dl.acm.org/doi/10.1145/3495243.3560518)
 
 *Fusang Zhang, Jie Xiong, Zhaoxin Chang, **Junqi Ma**, Daqing Zhang.*
 
-<span class = 'label'>MobiCom'22</span> [Experience: Pushing Indoor Localization from Laboratory to the Wild](https://dl.acm.org/doi/10.1145/3495243.3560546)
+<span class = 'label label-paper'>MobiCom'22</span> [Experience: Pushing Indoor Localization from Laboratory to the Wild](https://dl.acm.org/doi/10.1145/3495243.3560546)
 
 *Jiazhi Ni, Fusang Zhang, Jie Xiong, Qiang Huang, Zhaoxin Chang, **Junqi Ma**, Binbin Xie, Pengsen Wang, Guangyu Bian, Xin Li, Chang Liu.*
 
-<span class = 'label'>UbiComp'22</span> [Sensor-free soil moisture sensing using lora signals](https://dl.acm.org/doi/abs/10.1145/3534608)
+<span class = 'label label-paper'>UbiComp'22</span> [Sensor-free soil moisture sensing using lora signals](https://dl.acm.org/doi/abs/10.1145/3534608)
 
 *Zhaoxin Chang, Fusang Zhang, Jie Xiong, **Junqi Ma**, Beihong Jin, Daqing Zhang.*
 
-<span class = 'label'>UbiComp'21</span> [Unlocking the beamforming potential of LoRa for long-range multi-target respiration sensing](https://dl.acm.org/doi/abs/10.1145/3463526)
+<span class = 'label label-paper'>UbiComp'21</span> [Unlocking the beamforming potential of LoRa for long-range multi-target respiration sensing](https://dl.acm.org/doi/abs/10.1145/3463526)
 
 *Fusang Zhang, Zhaoxin Chang, Jie Xiong, Rong Zheng, **Junqi Ma**, Kai Niu, Beihong Jin, Daqing Zhang.*
 
 
 # 🎖 Honors and Awards
-- <span class = 'label'>2022/11</span> Outstanding Undergraduate Thesis Award of Beijing and BUPT.
-- <span class = 'label'>2022/10</span> MobiCom'22 Best Community Paper Award Runner-up.
-- <span class = 'label'>2022/10</span> MobiCom'22 Best Paper Award Runner-up.
-- <span class = 'label'>2022/09</span> IPIN'22 Indoor Positioning Competition(Track 7), First Place
-- <span class = 'label'>2022/06</span> Outstanding Graduate of BUPT.
-- <span class = 'label'>2021/11</span> IPIN'21 Indoor Positioning Competition(Track 7), First Place
+- <span class = 'label label-time'>11/2022</span> Outstanding Undergraduate Thesis Award of Beijing and BUPT.
+- <span class = 'label label-time'>10/2022</span> MobiCom'22 Best Community Paper Award Runner-up.
+- <span class = 'label label-time'>10/2022</span> MobiCom'22 Best Paper Award Runner-up.
+- <span class = 'label label-time'>09/2022</span> IPIN'22 Indoor Positioning Competition(Track 7), First Place
+- <span class = 'label label-time'>06/2022</span> Outstanding Graduate of BUPT.
+- <span class = 'label label-time'>11/2021</span> IPIN'21 Indoor Positioning Competition(Track 7), First Place
 
 # 📖 Educations
-- <span class = 'label'>2018/09 - 2022/6</span>  B.E. in Information Engineering. Beijing University of Posts and Telecommunications(BUPT), Beijing, China.
+- <span class = 'label label-time'>09/2018 - 6/2022</span>  B.E. in Information Engineering. Beijing University of Posts and Telecommunications(BUPT), Beijing, China.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- <span class = 'label'>2022/06 - Now</span> Tencent Map, China.
-- <span class = 'label'>2020/09 - 2022/05</span> Institute of Software, Chinese Academy of Sciences, China.
-- <span class = 'label'>2019/11 - 2020/08</span> Peking University, China.
+- <span class = 'label label-time'>06/2022 - Now</span> Tencent Map, China.
+- <span class = 'label label-time'>09/2022 - 05/2022</span> Institute of Software, Chinese Academy of Sciences, China.
+- <span class = 'label label-time'>11/2019 - 08/2020</span> Peking University, China.
