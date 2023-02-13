@@ -46,7 +46,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😺 Bio
-I am a Ph.D. student at Institute of Software, Chinese Academy of Sciences, under the supervision of **[Prof. Beihong Jin(金蓓弘)](http://work.iscas.ac.cn/index.php/Jinbeihong/index/)**. I also receive supervision from **[Prof. Fusang Zhang(张扶桑)](https://people.ucas.ac.cn/~zhangfusang?language=en)**. My research interests focus on pervasive computing and UWB-based sensing.
+I am a Ph.D. student at Institute of Software, Chinese Academy of Sciences, under the supervision of **[Prof. Beihong Jin(金蓓弘)](http://work.iscas.ac.cn/index.php/Jinbeihong/index/)**. I also receive supervision from **[Prof. Fusang Zhang(张扶桑)](https://people.ucas.ac.cn/~zhangfusang?language=en)**. My research interest focuses on pervasive computing and UWB-based sensing.
 
 # 📝 Publications 
 <span class = 'label label-paper'>UbiComp'23</span> [Embracing Consumer-level UWB-equipped Devices for Fine-grained Wireless Sensing](https://dl.acm.org/doi/abs/10.1145/3569487)
@@ -75,17 +75,17 @@ I am a Ph.D. student at Institute of Software, Chinese Academy of Sciences, unde
 
 
 # 🎖 Honors and Awards
-- <span class = 'label label-time'>11/2022</span> Outstanding Undergraduate Thesis Award of Beijing and BUPT.
-- <span class = 'label label-time'>10/2022</span> MobiCom'22 Best Community Paper Award Runner-up.
-- <span class = 'label label-time'>10/2022</span> MobiCom'22 Best Paper Award Runner-up.
-- <span class = 'label label-time'>09/2022</span> IPIN'22 Indoor Positioning Competition(Track 7), First Place
-- <span class = 'label label-time'>06/2022</span> Outstanding Graduate of BUPT.
-- <span class = 'label label-time'>11/2021</span> IPIN'21 Indoor Positioning Competition(Track 7), First Place
+<span class = 'label label-time'>11/2022</span> Outstanding Undergraduate Thesis Award of Beijing and BUPT.
+<span class = 'label label-time'>10/2022</span> MobiCom'22 Best Community Paper Award Runner-up.
+<span class = 'label label-time'>10/2022</span> MobiCom'22 Best Paper Award Runner-up.
+<span class = 'label label-time'>09/2022</span> IPIN'22 Indoor Positioning Competition(Track 7), First Place
+<span class = 'label label-time'>06/2022</span> Outstanding Graduate of BUPT.
+<span class = 'label label-time'>11/2021</span> IPIN'21 Indoor Positioning Competition(Track 7), First Place
 
 # 📖 Educations
-- <span class = 'label label-time'>09/2018 - 6/2022</span>  B.E. in Information Engineering. Beijing University of Posts and Telecommunications(BUPT), Beijing, China.
+<span class = 'label label-time'>09/2018 - 6/2022</span>  B.E. in Information Engineering. Beijing University of Posts and Telecommunications(BUPT), Beijing, China.
 
 # 💻 Internships
-- <span class = 'label label-time'>06/2022 - Now</span> Tencent Map, China.
-- <span class = 'label label-time'>09/2022 - 05/2022</span> Institute of Software, Chinese Academy of Sciences, China.
-- <span class = 'label label-time'>11/2019 - 08/2020</span> Peking University, China.
+<span class = 'label label-time'>06/2022 - Now</span> Tencent Map, China.
+<span class = 'label label-time'>09/2022 - 05/2022</span> Institute of Software, Chinese Academy of Sciences, China.
+<span class = 'label label-time'>11/2019 - 08/2020</span> Peking University, China.
