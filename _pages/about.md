@@ -76,16 +76,24 @@ I am a Ph.D. student at Institute of Software, Chinese Academy of Sciences, unde
 
 # 🎖 Honors and Awards
 <span class = 'label label-time'>11/2022</span> Outstanding Undergraduate Thesis Award of Beijing and BUPT.
+
 <span class = 'label label-time'>10/2022</span> MobiCom'22 Best Community Paper Award Runner-up.
+
 <span class = 'label label-time'>10/2022</span> MobiCom'22 Best Paper Award Runner-up.
+
 <span class = 'label label-time'>09/2022</span> IPIN'22 Indoor Positioning Competition(Track 7), First Place
+
 <span class = 'label label-time'>06/2022</span> Outstanding Graduate of BUPT.
+
 <span class = 'label label-time'>11/2021</span> IPIN'21 Indoor Positioning Competition(Track 7), First Place
+
 
 # 📖 Educations
 <span class = 'label label-time'>09/2018 - 6/2022</span>  B.E. in Information Engineering. Beijing University of Posts and Telecommunications(BUPT), Beijing, China.
 
 # 💻 Internships
 <span class = 'label label-time'>06/2022 - Now</span> Tencent Map, China.
+
 <span class = 'label label-time'>09/2022 - 05/2022</span> Institute of Software, Chinese Academy of Sciences, China.
+
 <span class = 'label label-time'>11/2019 - 08/2020</span> Peking University, China.
