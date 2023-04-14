@@ -53,6 +53,10 @@ I am a fisrt-year Ph.D. student at Institute of Software, Chinese Academy of Sci
 
 *Fusang Zhang, Zhaoxin Chang, Jie Xiong, **Junqi Ma**, Jiazhi Ni, Wenbo Zhang, Beihong Jin, Daqing Zhang.*
 
+<span class = 'label label-paper'>MobiCom'22 Demo</span>  [Mobi$^2$Sense: enabling wireless sensing under device motions](https://dl.acm.org/doi/abs/10.1145/3495243.3558748)
+
+***Junqi Ma**, Zhaoxin Chang, Fusang Zhang, Jie Xiong, Beihong Jin, Daqing Zhang.*
+
 <span class = 'label label-paper'>MobiCom'22 Demo</span>  [Involving ultra-wideband in consumer-level devices into the ecosystem of wireless sensing](https://dl.acm.org/doi/abs/10.1145/3495243.3558745) ([demo video](https://www.youtube.com/watch?v=DmmyH8VwpJU))
 
 ***Junqi Ma**, Zhaoxin Chang, Fusang Zhang, Jie Xiong, Jiazhi Ni, Beihong Jin, Daqing Zhang.*
