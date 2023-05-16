@@ -98,6 +98,6 @@ I am a fisrt-year Ph.D. student at Institute of Software, Chinese Academy of Sci
 # 💻 Internships
 <span class = 'label label-time'>06/2022 - Now</span> Tencent Map, China.
 
-<span class = 'label label-time'>09/2022 - 05/2022</span> Institute of Software, Chinese Academy of Sciences, China.
+<span class = 'label label-time'>09/2020 - 05/2022</span> Institute of Software, Chinese Academy of Sciences, China.
 
 <span class = 'label label-time'>11/2019 - 08/2020</span> Peking University, China.
