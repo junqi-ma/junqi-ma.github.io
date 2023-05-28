@@ -49,10 +49,6 @@ redirect_from:
 I am a fisrt-year Ph.D. student at Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. **[Beihong Jin(金蓓弘)](http://work.iscas.ac.cn/index.php/Jinbeihong/index/)**. I also receive supervision from Prof. **[Fusang Zhang(张扶桑)](https://people.ucas.ac.cn/~zhangfusang?language=en)**. My research interest focuses on pervasive computing and UWB sensing.
 
 # 📝 Publications 
-<span class = 'label label-paper' href = 'https://dl.acm.org/doi/abs/10.1145/3569487'>UbiComp'23</span> [Embracing Consumer-level UWB-equipped Devices for Fine-grained Wireless Sensing](https://dl.acm.org/doi/abs/10.1145/3569487)
-
-*Fusang Zhang, Zhaoxin Chang, Jie Xiong, **Junqi Ma**, Jiazhi Ni, Wenbo Zhang, Beihong Jin, Daqing Zhang.*
-
 <span class = 'label label-paper'>MobiCom'22 Demo</span>  [Mobi$^2$Sense: enabling wireless sensing under device motions](https://dl.acm.org/doi/abs/10.1145/3495243.3558748)
 
 ***Junqi Ma**, Zhaoxin Chang, Fusang Zhang, Jie Xiong, Beihong Jin, Daqing Zhang.*
