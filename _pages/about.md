@@ -48,15 +48,15 @@ redirect_from:
 # 😺 Bio
 I am a fisrt-year Ph.D. student at Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. **[Beihong Jin(金蓓弘)](http://work.iscas.ac.cn/index.php/Jinbeihong/index/)**. I also receive supervision from Prof. **[Fusang Zhang(张扶桑)](https://people.ucas.ac.cn/~zhangfusang?language=en)**. My research interest focuses on pervasive computing and UWB sensing.
 
-#🔥 News
-- *2023.07*: &nbsp; I was awarded the Outstanding Scholarship of 2023 Tencent Rhnio-Bird Research Elite Program. Thanks a lot to Prof. Beihong Jin, Prof. Fusang Zhang, Dr. Qiang Huang and Mr. Jiazhi Ni for their generous help.
+# 🔥 News
+<span class = 'label label-time'>07/2023</span> I was awarded the Outstanding Scholarship of 2023 Tencent Rhnio-Bird Research Elite Program. Thanks a lot to Prof. Beihong Jin, Prof. Fusang Zhang, Dr. Qiang Huang and Mr. Jiazhi Ni for their generous help.
 
 # 📝 Publications 
-<span class = 'label label-paper'>MobiCom'22 Demo</span>  [Mobi$^2$Sense: enabling wireless sensing under device motions](https://dl.acm.org/doi/abs/10.1145/3495243.3558748)
+<span class = 'label label-paper'>MobiCom'22 Demo</span> [Mobi$^2$Sense: enabling wireless sensing under device motions](https://dl.acm.org/doi/abs/10.1145/3495243.3558748)
 
 ***Junqi Ma**, Zhaoxin Chang, Fusang Zhang, Jie Xiong, Beihong Jin, Daqing Zhang.*
 
-<span class = 'label label-paper'>MobiCom'22 Demo</span>  [Involving ultra-wideband in consumer-level devices into the ecosystem of wireless sensing](https://dl.acm.org/doi/abs/10.1145/3495243.3558745) ([demo video](https://www.youtube.com/watch?v=DmmyH8VwpJU))
+<span class = 'label label-paper'>MobiCom'22 Demo</span> [Involving ultra-wideband in consumer-level devices into the ecosystem of wireless sensing](https://dl.acm.org/doi/abs/10.1145/3495243.3558745) ([demo video](https://www.youtube.com/watch?v=DmmyH8VwpJU))
 
 ***Junqi Ma**, Zhaoxin Chang, Fusang Zhang, Jie Xiong, Jiazhi Ni, Beihong Jin, Daqing Zhang.*
 
