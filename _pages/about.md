@@ -46,7 +46,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😺 Bio
-I am a fisrt-year Ph.D. student at Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. **[Beihong Jin(金蓓弘)](http://work.iscas.ac.cn/index.php/Jinbeihong/index/)**. I also receive supervision from Prof. **[Fusang Zhang(张扶桑)](https://people.ucas.ac.cn/~zhangfusang?language=en)**. My research interest focuses on pervasive computing and UWB sensing.
+I am a second-year Ph.D. student at Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. **[Beihong Jin(金蓓弘)](http://work.iscas.ac.cn/index.php/Jinbeihong/index/)**. I also receive supervision from Prof. **[Fusang Zhang(张扶桑)](https://people.ucas.ac.cn/~zhangfusang?language=en)**. My research interest focuses on pervasive computing and UWB sensing.
 
 # 🔥 News
 <span class = 'label label-time'>07/2023</span> I was awarded the Outstanding Scholarship of 2023 Tencent Rhnio-Bird Research Elite Program. Thanks a lot to Prof. Beihong Jin, Prof. Fusang Zhang, Dr. Qiang Huang and Mr. Jiazhi Ni for their generous help.
@@ -88,7 +88,7 @@ I am a fisrt-year Ph.D. student at Institute of Software, Chinese Academy of Sci
 
 <span class = 'label label-time'>09/2022</span> IPIN'22 Indoor Positioning Competition(Track 7), First Place
 
-<span class = 'label label-time'>06/2022</span> Outstanding Graduate of BUPT北京邮电大学优秀本科毕业生.
+<span class = 'label label-time'>06/2022</span> Outstanding Graduate of BUPT/北京邮电大学优秀本科毕业生.
 
 <span class = 'label label-time'>11/2021</span> IPIN'21 Indoor Positioning Competition(Track 7), First Place
 
