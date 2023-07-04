@@ -49,7 +49,7 @@ redirect_from:
 I am a second-year Ph.D. student at Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. **[Beihong Jin(金蓓弘)](http://work.iscas.ac.cn/index.php/Jinbeihong/index/)**. I also receive supervision from Prof. **[Fusang Zhang(张扶桑)](https://people.ucas.ac.cn/~zhangfusang?language=en)**. My research interest focuses on pervasive computing and UWB sensing.
 
 # 🔥 News
-<span class = 'label label-time'>07/2023</span> I was awarded the Outstanding Scholarship of 2023 Tencent Rhnio-Bird Research Elite Program. Thanks a lot to Prof. Beihong Jin, Prof. Fusang Zhang, Dr. Qiang Huang and Mr. Jiazhi Ni for their generous help.
+<span class = 'label label-time'>07/2023</span> I was awarded the Outstanding Scholarship of 2022 Tencent Rhnio-Bird Research Elite Program. Thanks a lot to Prof. Beihong Jin, Prof. Fusang Zhang, Dr. Qiang Huang and Mr. Jiazhi Ni for their generous help.
 
 # 📝 Publications 
 <span class = 'label label-paper'>MobiCom'22 Demo</span> [Mobi$^2$Sense: enabling wireless sensing under device motions](https://dl.acm.org/doi/abs/10.1145/3495243.3558748)
@@ -78,7 +78,7 @@ I am a second-year Ph.D. student at Institute of Software, Chinese Academy of Sc
 
 
 # 🎖 Honors and Awards
-<span class = 'label label-time'>11/2023</span> Outstanding Scholarship of 2023 Tencent Rhnio-Bird Research Elite Program/腾讯犀牛鸟精英人才计划杰出学生奖学金(6/275).
+<span class = 'label label-time'>11/2023</span> Outstanding Scholarship of 2022 Tencent Rhnio-Bird Research Elite Program/2022腾讯犀牛鸟精英人才计划杰出学生奖学金(6/275).
 
 <span class = 'label label-time'>11/2022</span> Outstanding Undergraduate Thesis Award of Beijing/北京市优秀本科毕业设计.
 
