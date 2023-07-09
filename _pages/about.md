@@ -78,7 +78,7 @@ I am a second-year Ph.D. student at Institute of Software, Chinese Academy of Sc
 
 
 # 🎖 Honors and Awards
-<span class = 'label label-time'>11/2023</span> Outstanding Scholarship of 2022 Tencent Rhnio-Bird Research Elite Program/2022腾讯犀牛鸟精英人才计划杰出学生奖学金(6/275).
+<span class = 'label label-time'>07/2023</span> Outstanding Scholarship of 2022 Tencent Rhnio-Bird Research Elite Program/2022腾讯犀牛鸟精英人才计划杰出学生奖学金(6/275).
 
 <span class = 'label label-time'>11/2022</span> Outstanding Undergraduate Thesis Award of Beijing/北京市优秀本科毕业设计.
 
