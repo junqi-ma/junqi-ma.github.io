@@ -52,6 +52,10 @@ I am a second-year Ph.D. student at Institute of Software, Chinese Academy of Sc
 <span class = 'label label-time'>07/2023</span> I was awarded the Outstanding Scholarship of 2022 Tencent Rhnio-Bird Research Elite Program. Thanks a lot to Prof. Beihong Jin, Prof. Fusang Zhang, Dr. Qiang Huang and Jiazhi Ni for their generous help.
 
 # 📝 Publications 
+<span class = 'label label-paper'>UbiComp'23</span> [Embracing Consumer-level UWB-equipped Devices for Fine-grained Wireless Sensing](https://dl.acm.org/doi/abs/10.1145/3569487)
+
+*Fusang Zhang, Zhaoxin Chang, Jie Xiong, **Junqi Ma**, Jiazhi Ni, Wenbo Zhang, Beihong Jin, Daqing Zhang*
+
 <span class = 'label label-paper'>MobiCom'22 Demo</span> [Mobi$^2$Sense: enabling wireless sensing under device motions](https://dl.acm.org/doi/abs/10.1145/3495243.3558748)
 
 ***Junqi Ma**, Zhaoxin Chang, Fusang Zhang, Jie Xiong, Beihong Jin, Daqing Zhang.*
