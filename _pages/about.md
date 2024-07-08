@@ -21,7 +21,7 @@ redirect_from:
 }
 
 .label-conf {
-    background-color: #8CB1FF;
+    background-color: #578DFF;
 }
 
 .label-time {
