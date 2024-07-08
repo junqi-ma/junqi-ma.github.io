@@ -59,45 +59,45 @@ I am a second-year Ph.D. student at Institute of Software, Chinese Academy of Sc
 
 # 📝 Publications 
 ## 2024
-- <span class = 'label label-conf'>IMWUT/UbiComp'24</span> [Push the Limit of Highly Accurate Ranging on Commercial UWB Devices](https://doi.org/10.1145/3659602)
+<span class = 'label label-conf'>IMWUT/UbiComp'24</span> [Push the Limit of Highly Accurate Ranging on Commercial UWB Devices](https://doi.org/10.1145/3659602)
 
 ***Junqi Ma**, Fusang Zhang, Beihong Jin, Chang Su, Siheng Li, Zhi Wang, Jiazhi Ni*
 
-- <span class = 'label label-conf'>IMWUT/UbiComp'24</span> [UWB-enabled Sensing for Fast and Effortless Blood Pressure Monitoring](https://doi.org/10.1145/3659617)
+<span class = 'label label-conf'>IMWUT/UbiComp'24</span> [UWB-enabled Sensing for Fast and Effortless Blood Pressure Monitoring](https://doi.org/10.1145/3659617)
 
 *Zhi Wang, Beihong Jin, Siheng Li, Fusang Zhang, **Junqi Ma***
 
 ## 2023
 
-- <span class = 'label label-conf'>IMWUT/UbiComp'23</span> [Embracing Consumer-level UWB-equipped Devices for Fine-grained Wireless Sensing](https://dl.acm.org/doi/abs/10.1145/3569487)
+<span class = 'label label-conf'>IMWUT/UbiComp'23</span> [Embracing Consumer-level UWB-equipped Devices for Fine-grained Wireless Sensing](https://dl.acm.org/doi/abs/10.1145/3569487)
 
 *Fusang Zhang, Zhaoxin Chang, Jie Xiong, **Junqi Ma**, Jiazhi Ni, Wenbo Zhang, Beihong Jin, Daqing Zhang*
 
 ## 2022
 
-- <span class = 'label label-conf'>MobiCom'22 Demo</span> [Mobi$^2$Sense: enabling wireless sensing under device motions](https://dl.acm.org/doi/abs/10.1145/3495243.3558748)
+<span class = 'label label-conf'>MobiCom'22 Demo</span> [Mobi$^2$Sense: enabling wireless sensing under device motions](https://dl.acm.org/doi/abs/10.1145/3495243.3558748)
 
 ***Junqi Ma**, Zhaoxin Chang, Fusang Zhang, Jie Xiong, Beihong Jin, Daqing Zhang.*
 
-- <span class = 'label label-conf'>MobiCom'22 Demo</span> [Involving ultra-wideband in consumer-level devices into the ecosystem of wireless sensing](https://dl.acm.org/doi/abs/10.1145/3495243.3558745) ([demo video](https://www.youtube.com/watch?v=DmmyH8VwpJU))
+<span class = 'label label-conf'>MobiCom'22 Demo</span> [Involving ultra-wideband in consumer-level devices into the ecosystem of wireless sensing](https://dl.acm.org/doi/abs/10.1145/3495243.3558745) ([demo video](https://www.youtube.com/watch?v=DmmyH8VwpJU))
 
 ***Junqi Ma**, Zhaoxin Chang, Fusang Zhang, Jie Xiong, Jiazhi Ni, Beihong Jin, Daqing Zhang.*
 
-- <span class = 'label label-conf'>MobiCom'22</span> [Mobi$^2$Sense: Empowering Wireless Sensing with Mobility](https://dl.acm.org/doi/10.1145/3495243.3560518)
+<span class = 'label label-conf'>MobiCom'22</span> [Mobi$^2$Sense: Empowering Wireless Sensing with Mobility](https://dl.acm.org/doi/10.1145/3495243.3560518)
 
 *Fusang Zhang, Jie Xiong, Zhaoxin Chang, **Junqi Ma**, Daqing Zhang.*
 
-- <span class = 'label label-conf'>MobiCom'22</span> [Experience: Pushing Indoor Localization from Laboratory to the Wild](https://dl.acm.org/doi/10.1145/3495243.3560546)
+<span class = 'label label-conf'>MobiCom'22</span> [Experience: Pushing Indoor Localization from Laboratory to the Wild](https://dl.acm.org/doi/10.1145/3495243.3560546)
 
 *Jiazhi Ni, Fusang Zhang, Jie Xiong, Qiang Huang, Zhaoxin Chang, **Junqi Ma**, Binbin Xie, Pengsen Wang, Guangyu Bian, Xin Li, Chang Liu.*
 
-- <span class = 'label label-conf'>IMWUT/UbiComp'22</span> [Sensor-free soil moisture sensing using lora signals](https://dl.acm.org/doi/abs/10.1145/3534608)
+<span class = 'label label-conf'>IMWUT/UbiComp'22</span> [Sensor-free soil moisture sensing using lora signals](https://dl.acm.org/doi/abs/10.1145/3534608)
 
 *Zhaoxin Chang, Fusang Zhang, Jie Xiong, **Junqi Ma**, Beihong Jin, Daqing Zhang.*
 
 ## 2021
 
-- <span class = 'label label-conf'>IMWUT/UbiComp'21</span> [Unlocking the beamforming potential of LoRa for long-range multi-target respiration sensing](https://dl.acm.org/doi/abs/10.1145/3463526)
+<span class = 'label label-conf'>IMWUT/UbiComp'21</span> [Unlocking the beamforming potential of LoRa for long-range multi-target respiration sensing](https://dl.acm.org/doi/abs/10.1145/3463526)
 
 *Fusang Zhang, Zhaoxin Chang, Jie Xiong, Rong Zheng, **Junqi Ma**, Kai Niu, Beihong Jin, Daqing Zhang.*
 
