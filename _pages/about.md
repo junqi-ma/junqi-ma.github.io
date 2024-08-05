@@ -104,7 +104,6 @@ I am a second-year Ph.D. student at Institute of Software, Chinese Academy of Sc
 # 📕 Professional Services
 
 - Reviewer for ACM IMWUT/UbiComp 2024
-- Reviewer for IEEE TGCN 2024 
 
 # 🎖 Honors and Awards
 - <span class = 'label label-time'>07/2023</span> Outstanding Scholarship of 2022 Tencent Rhnio-Bird Research Elite Program/2022腾讯犀牛鸟精英人才计划杰出学生奖学金(6/275).
