@@ -50,7 +50,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😺 Bio
-I am a second-year Ph.D. student at Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. **[Beihong Jin(金蓓弘)](http://work.iscas.ac.cn/index.php/Jinbeihong/index/)**. I also receive supervision from Prof. **[Fusang Zhang(张扶桑)](https://people.ucas.ac.cn/~zhangfusang?language=en)**. My research interest focuses on pervasive computing and UWB sensing.
+I am a third-year Ph.D. student at Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. **[Beihong Jin(金蓓弘)](http://work.iscas.ac.cn/index.php/Jinbeihong/index/)**. I also receive supervision from Prof. **[Fusang Zhang(张扶桑)](https://people.ucas.ac.cn/~zhangfusang?language=en)**. My research interest focuses on pervasive computing and UWB sensing.
 
 # 🔥 News
 <span class = 'label label-time'>04/2024</span> Two papers accepted by ACM IMWUT/UbiComp 2024.
