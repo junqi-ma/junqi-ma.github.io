@@ -83,11 +83,11 @@ I am a third-year Ph.D. student at Institute of Software, Chinese Academy of Sci
 
 ***Junqi Ma**, Zhaoxin Chang, Fusang Zhang, Jie Xiong, Jiazhi Ni, Beihong Jin, Daqing Zhang.*
 
-<span class = 'label label-conf'>MobiCom'22</span> [Mobi$^2$Sense: Empowering Wireless Sensing with Mobility](https://dl.acm.org/doi/10.1145/3495243.3560518)
+<span class = 'label label-conf'>MobiCom'22</span> [Mobi$^2$Sense: Empowering Wireless Sensing with Mobility](https://dl.acm.org/doi/10.1145/3495243.3560518)🏆
 
 *Fusang Zhang, Jie Xiong, Zhaoxin Chang, **Junqi Ma**, Daqing Zhang.*
 
-<span class = 'label label-conf'>MobiCom'22</span> [Experience: Pushing Indoor Localization from Laboratory to the Wild](https://dl.acm.org/doi/10.1145/3495243.3560546)
+<span class = 'label label-conf'>MobiCom'22</span> [Experience: Pushing Indoor Localization from Laboratory to the Wild](https://dl.acm.org/doi/10.1145/3495243.3560546)🏆
 
 *Jiazhi Ni, Fusang Zhang, Jie Xiong, Qiang Huang, Zhaoxin Chang, **Junqi Ma**, Binbin Xie, Pengsen Wang, Guangyu Bian, Xin Li, Chang Liu.*
 
