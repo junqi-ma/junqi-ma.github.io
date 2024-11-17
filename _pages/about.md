@@ -59,13 +59,17 @@ I am a third-year Ph.D. student at Institute of Software, Chinese Academy of Sci
 
 # 📝 Publications 
 ## 2024
-<span class = 'label label-conf'>IMWUT/UbiComp'24</span> [Push the Limit of Highly Accurate Ranging on Commercial UWB Devices](https://doi.org/10.1145/3659602)
+<span class = 'label label-conf'>IMWUT/UbiComp'24</span> [Push the Limit of Highly Accurate Ranging on Commercial UWB Devices](https://doi.org/10.1145/3659602) [[slides]](https://github.com/junqi-ma/junqi-ma.github.io/blob/main/slides/UbiComp_presentation.pdf)
 
 ***Junqi Ma**, Fusang Zhang, Beihong Jin, Chang Su, Siheng Li, Zhi Wang, Jiazhi Ni*
 
 <span class = 'label label-conf'>IMWUT/UbiComp'24</span> [UWB-enabled Sensing for Fast and Effortless Blood Pressure Monitoring](https://doi.org/10.1145/3659617)
 
 *Zhi Wang, Beihong Jin, Siheng Li, Fusang Zhang, **Junqi Ma***
+
+<span class = 'label label-conf'>IMWUT/UbiComp'24</span> [Hypnos: A Contactless Sleep Stage Monitoring System Using UWB Signals](https://dl.acm.org/doi/abs/10.1145/3678581)
+
+*Siheng Li, Beihong Jin, Fusang Zhang, Zhi Wang, **Junqi Ma**, Xiaoyong Ren, Haiqin Liu*
 
 ## 2023
 
