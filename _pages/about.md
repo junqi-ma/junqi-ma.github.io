@@ -53,13 +53,15 @@ redirect_from:
 I am a third-year Ph.D. student at Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. **[Beihong Jin(金蓓弘)](http://work.iscas.ac.cn/index.php/Jinbeihong/index/)**. I also receive supervision from Prof. **[Fusang Zhang(张扶桑)](https://people.ucas.ac.cn/~zhangfusang?language=en)**. My research interest focuses on pervasive computing and UWB sensing.
 
 # 🔥 News
+<span class = 'label label-time'>12/2024</span> One paper accepted by IEEE INFOCOM 2025.
+
 <span class = 'label label-time'>04/2024</span> Two papers accepted by ACM IMWUT/UbiComp 2024.
 
 <span class = 'label label-time'>07/2023</span> I was awarded the Outstanding Scholarship of 2022 Tencent Rhnio-Bird Research Elite Program. Thanks a lot to Prof. Beihong Jin, Prof. Fusang Zhang, Dr. Qiang Huang and Jiazhi Ni for their generous help.
 
 # 📝 Publications 
 ## 2025
-<span class = 'label label-conf'>IMWUT/UbiComp'24</span> MULoc: Towards Millimeter-Accurate Localization for Unlimited UWB Tags via Anchor Overhearing
+<span class = 'label label-conf'>INFOCOM'25</span> MULoc: Towards Millimeter-Accurate Localization for Unlimited UWB Tags via Anchor Overhearing
 
 ***Junqi Ma**, Fusang Zhang, Beihong Jin, Siheng Li, Zhi Wang*
 
