@@ -53,40 +53,40 @@ redirect_from:
 I am a third-year Ph.D. student at Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. **[Beihong Jin(金蓓弘)](http://work.iscas.ac.cn/index.php/Jinbeihong/index/)**. I also receive supervision from Prof. **[Fusang Zhang(张扶桑)](https://people.ucas.ac.cn/~zhangfusang?language=en)**. My research interest focuses on pervasive computing and UWB sensing.
 
 # 🔥 News
-<span class = 'label label-time'>12/2024</span> One paper accepted by IEEE INFOCOM 2025.
+- <span class = 'label label-time'>12/2024</span> One paper accepted by IEEE INFOCOM 2025.
 
-<span class = 'label label-time'>04/2024</span> Two papers accepted by ACM IMWUT/UbiComp 2024.
+- <span class = 'label label-time'>04/2024</span> Two papers accepted by ACM IMWUT/UbiComp 2024.
 
-<span class = 'label label-time'>07/2023</span> I was awarded the Outstanding Scholarship of 2022 Tencent Rhnio-Bird Research Elite Program. Thanks a lot to Prof. Beihong Jin, Prof. Fusang Zhang, Dr. Qiang Huang and Jiazhi Ni for their generous help.
+- <span class = 'label label-time'>07/2023</span> I was awarded the Outstanding Scholarship of 2022 Tencent Rhnio-Bird Research Elite Program. Thanks a lot to Prof. Beihong Jin, Prof. Fusang Zhang, Dr. Qiang Huang and Jiazhi Ni for their generous help.
 
 # 📝 Publications 
 ## 2025
-<span class = 'label label-conf'>INFOCOM'25</span> MULoc: Towards Millimeter-Accurate Localization for Unlimited UWB Tags via Anchor Overhearing
+- <span class = 'label label-conf'>INFOCOM'25</span> MULoc: Towards Millimeter-Accurate Localization for Unlimited UWB Tags via Anchor Overhearing
 
 ***Junqi Ma**, Fusang Zhang, Beihong Jin, Siheng Li, Zhi Wang*
 
 ## 2024
-<span class = 'label label-conf'>IMWUT/UbiComp'24</span> [Push the Limit of Highly Accurate Ranging on Commercial UWB Devices](https://doi.org/10.1145/3659602) [[slides]](https://github.com/junqi-ma/junqi-ma.github.io/blob/main/slides/UbiComp_presentation.pdf)
+- <span class = 'label label-conf'>IMWUT/UbiComp'24</span> [Push the Limit of Highly Accurate Ranging on Commercial UWB Devices](https://doi.org/10.1145/3659602) [[slides]](https://github.com/junqi-ma/junqi-ma.github.io/blob/main/slides/UbiComp_presentation.pdf)
 
 ***Junqi Ma**, Fusang Zhang, Beihong Jin, Chang Su, Siheng Li, Zhi Wang, Jiazhi Ni*
 
-<span class = 'label label-conf'>IMWUT/UbiComp'24</span> [UWB-enabled Sensing for Fast and Effortless Blood Pressure Monitoring](https://doi.org/10.1145/3659617)
+- <span class = 'label label-conf'>IMWUT/UbiComp'24</span> [UWB-enabled Sensing for Fast and Effortless Blood Pressure Monitoring](https://doi.org/10.1145/3659617)
 
 *Zhi Wang, Beihong Jin, Siheng Li, Fusang Zhang, **Junqi Ma***
 
-<span class = 'label label-conf'>IMWUT/UbiComp'24</span> [Hypnos: A Contactless Sleep Stage Monitoring System Using UWB Signals](https://dl.acm.org/doi/abs/10.1145/3678581)
+- <span class = 'label label-conf'>IMWUT/UbiComp'24</span> [Hypnos: A Contactless Sleep Stage Monitoring System Using UWB Signals](https://dl.acm.org/doi/abs/10.1145/3678581)
 
 *Siheng Li, Beihong Jin, Fusang Zhang, Zhi Wang, **Junqi Ma**, Xiaoyong Ren, Haiqin Liu*
 
 ## 2023
 
-<span class = 'label label-conf'>IMWUT/UbiComp'23</span> [Embracing Consumer-level UWB-equipped Devices for Fine-grained Wireless Sensing](https://dl.acm.org/doi/abs/10.1145/3569487)
+- <span class = 'label label-conf'>IMWUT/UbiComp'23</span> [Embracing Consumer-level UWB-equipped Devices for Fine-grained Wireless Sensing](https://dl.acm.org/doi/abs/10.1145/3569487)
 
 *Fusang Zhang, Zhaoxin Chang, Jie Xiong, **Junqi Ma**, Jiazhi Ni, Wenbo Zhang, Beihong Jin, Daqing Zhang*
 
 ## 2022
 
-<!--<span class = 'label label-conf'>MobiCom'22 Demo</span> [Mobi$^2$Sense: enabling wireless sensing under device motions](https://dl.acm.org/doi/abs/10.1145/3495243.3558748)
+- <!--<span class = 'label label-conf'>MobiCom'22 Demo</span> [Mobi$^2$Sense: enabling wireless sensing under device motions](https://dl.acm.org/doi/abs/10.1145/3495243.3558748)
 
 ***Junqi Ma**, Zhaoxin Chang, Fusang Zhang, Jie Xiong, Beihong Jin, Daqing Zhang.*
 
@@ -95,15 +95,15 @@ I am a third-year Ph.D. student at Institute of Software, Chinese Academy of Sci
 ***Junqi Ma**, Zhaoxin Chang, Fusang Zhang, Jie Xiong, Jiazhi Ni, Beihong Jin, Daqing Zhang.*
 -->
 
-<span class = 'label label-conf'>MobiCom'22</span> [Mobi$^2$Sense: Empowering Wireless Sensing with Mobility](https://dl.acm.org/doi/10.1145/3495243.3560518)🏆
+- <span class = 'label label-conf'>MobiCom'22</span> [Mobi$^2$Sense: Empowering Wireless Sensing with Mobility](https://dl.acm.org/doi/10.1145/3495243.3560518)🏆
 
 *Fusang Zhang, Jie Xiong, Zhaoxin Chang, **Junqi Ma**, Daqing Zhang.*
 
-<span class = 'label label-conf'>MobiCom'22</span> [Experience: Pushing Indoor Localization from Laboratory to the Wild](https://dl.acm.org/doi/10.1145/3495243.3560546)🏆
+- <span class = 'label label-conf'>MobiCom'22</span> [Experience: Pushing Indoor Localization from Laboratory to the Wild](https://dl.acm.org/doi/10.1145/3495243.3560546)🏆
 
 *Jiazhi Ni, Fusang Zhang, Jie Xiong, Qiang Huang, Zhaoxin Chang, **Junqi Ma**, Binbin Xie, Pengsen Wang, Guangyu Bian, Xin Li, Chang Liu.*
 
-<span class = 'label label-conf'>IMWUT/UbiComp'22</span> [Sensor-free soil moisture sensing using lora signals](https://dl.acm.org/doi/abs/10.1145/3534608)
+- <span class = 'label label-conf'>IMWUT/UbiComp'22</span> [Sensor-free soil moisture sensing using lora signals](https://dl.acm.org/doi/abs/10.1145/3534608)
 
 *Zhaoxin Chang, Fusang Zhang, Jie Xiong, **Junqi Ma**, Beihong Jin, Daqing Zhang.*
 
