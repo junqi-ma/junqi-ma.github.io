@@ -86,7 +86,7 @@ I am a third-year Ph.D. student at Institute of Software, Chinese Academy of Sci
 
 ## 2022
 
-- <!--<span class = 'label label-conf'>MobiCom'22 Demo</span> [Mobi$^2$Sense: enabling wireless sensing under device motions](https://dl.acm.org/doi/abs/10.1145/3495243.3558748)
+<!--<span class = 'label label-conf'>MobiCom'22 Demo</span> [Mobi$^2$Sense: enabling wireless sensing under device motions](https://dl.acm.org/doi/abs/10.1145/3495243.3558748)
 
 ***Junqi Ma**, Zhaoxin Chang, Fusang Zhang, Jie Xiong, Beihong Jin, Daqing Zhang.*
 
