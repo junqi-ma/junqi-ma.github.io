@@ -66,7 +66,7 @@ I am a third-year Ph.D. student at Institute of Software, Chinese Academy of Sci
 ***Junqi Ma**, Fusang Zhang, Beihong Jin, Siheng Li, Zhi Wang*
 
 ## 2024
-- <span class = 'label label-conf'>IMWUT/UbiComp'24</span> [Push the Limit of Highly Accurate Ranging on Commercial UWB Devices](https://doi.org/10.1145/3659602) [[slides]]([https://github.com/junqi-ma/junqi-ma.github.io/blob/main/slides/UbiComp_presentation.pdf](https://github.com/MULoc/MULoc))
+- <span class = 'label label-conf'>IMWUT/UbiComp'24</span> [Push the Limit of Highly Accurate Ranging on Commercial UWB Devices](https://doi.org/10.1145/3659602) [[slides]]([https://github.com/junqi-ma/junqi-ma.github.io/blob/main/slides/UbiComp_presentation.pdf])
 
 ***Junqi Ma**, Fusang Zhang, Beihong Jin, Chang Su, Siheng Li, Zhi Wang, Jiazhi Ni*
 
