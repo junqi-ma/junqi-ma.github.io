@@ -61,7 +61,7 @@ I am a third-year Ph.D. student at Institute of Software, Chinese Academy of Sci
 
 # 📝 Publications 
 ## 2025
-- <span class = 'label label-conf'>INFOCOM'25</span> [MULoc: Towards Millimeter-Accurate Localization for Unlimited UWB Tags via Anchor Overhearing](https://www.researchgate.net/publication/387772183_MULoc_Towards_Millimeter-Accurate_Localization_for_Unlimited_UWB_Tags_via_Anchor_Overhearing?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjpudWxsLCJzdWJQYWdlIjpudWxsLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19)  [[code]](https://github.com/junqi-ma/junqi-ma.github.io/blob/main/slides/UbiComp_presentation.pdf)
+- <span class = 'label label-conf'>INFOCOM'25</span> [MULoc: Towards Millimeter-Accurate Localization for Unlimited UWB Tags via Anchor Overhearing](https://www.researchgate.net/publication/387772183_MULoc_Towards_Millimeter-Accurate_Localization_for_Unlimited_UWB_Tags_via_Anchor_Overhearing?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjpudWxsLCJzdWJQYWdlIjpudWxsLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19)  [[code]](https://github.com/MULoc/MULoc)
 
 ***Junqi Ma**, Fusang Zhang, Beihong Jin, Siheng Li, Zhi Wang*
 
